@@ -1,6 +1,5 @@
 
-# Project Name
-Spanish Political Alignment
+# Spanish Political Alignment Classifier
 
 ## Project Intro/Objective
 The purpose of this project is define a classification technique to assign a party to Spanish Parliamentary debate speeches. We start with left vs right parties, PP and PSOE,  then we expand our classifier to classify other party speeches. 
